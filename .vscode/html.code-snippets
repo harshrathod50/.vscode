@@ -1,0 +1,28 @@
+{
+	"Deep HTML5 Template": {
+		"scope": "html",
+		"prefix": "!!",
+		"description": "SEO friendly HTML5 template",
+		"body": [
+			"<!doctype html>",
+			"<html lang=\"en\">",
+			"\t<head>",
+			"\t\t<meta charset=\"UTF-8\">",
+			"\t\t<meta name=\"application-name\" content=\"$1\">",
+			"\t\t<meta name=\"author\" content=\"$2\">",
+			"\t\t<meta name=\"description\" content=\"$3\">",
+			"\t\t<meta name=\"keywords\" content=\"$4\">",
+			"\t\t<meta name=\"color-scheme\" content=\"${5|light dark,only light|}\">",
+			"\t\t<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">",
+			"\t\t<meta name=\"creator\" content=\"$6\">",
+			"\t\t<title>$7</title>",
+			"\t\t<link rel=\"icon\" type=\"image/svg+xml\" href=\"icon.svg\">",
+			"\t</head>",
+			"\t<body>",
+			"\t\t<h1>Hello, World!</h1>",
+			"\t\t<noscript>JavaScript is NOT enabled!</noscript>",
+			"\t</body>",
+			"</html>\n",
+		]
+	}
+}
