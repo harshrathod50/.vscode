@@ -12,12 +12,18 @@
 		"vscjava.vscode-java-test",
 		"vscjava.vscode-java-dependency",
 		/* Prettier */
-		"esbenp.prettier-vscode"
+		"esbenp.prettier-vscode",
+		/* Spring Boot */
+		"vscjava.vscode-spring-initializr",
+		"vscjava.vscode-spring-boot-dashboard",
+		"vmware.vscode-spring-boot"
 	],
 	"unwantedRecommendations": [
 		/* Git */
 		"donjayamanne.git-extension-pack",
 		/* Java */
 		"vscjava.vscode-java-pack",
+		/* Spring Boot */
+		"vmware.vscode-boot-dev-pack"
 	]
 }
