@@ -13,12 +13,17 @@
 		"vscjava.vscode-java-dependency",
 		/* Markdown */
 		"DavidAnson.vscode-markdownlint",
+		/* Maven */
+		"vscjava.vscode-maven",
+		"redhat.fabric8-analytics",
 		/* Prettier */
 		"esbenp.prettier-vscode",
 		/* Spring Boot */
 		"vscjava.vscode-spring-initializr",
 		"vscjava.vscode-spring-boot-dashboard",
-		"vmware.vscode-spring-boot"
+		"vmware.vscode-spring-boot",
+		/* XML */
+		"redhat.vscode-xml"
 	],
 	"unwantedRecommendations": [
 		/* Git */
