@@ -5,11 +5,19 @@
 		"felipecaputo.git-project-manager",
 		"donjayamanne.githistory",
 		"mhutchie.git-graph",
+		/* Java */
+		"VisualStudioExptTeam.vscodeintellicode",
+		"redhat.java",
+		"vscjava.vscode-java-debug",
+		"vscjava.vscode-java-test",
+		"vscjava.vscode-java-dependency",
 		/* Prettier */
 		"esbenp.prettier-vscode"
 	],
 	"unwantedRecommendations": [
 		/* Git */
-		"donjayamanne.git-extension-pack"
+		"donjayamanne.git-extension-pack",
+		/* Java */
+		"vscjava.vscode-java-pack",
 	]
 }
