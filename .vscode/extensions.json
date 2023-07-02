@@ -4,7 +4,9 @@
 		"eamodio.gitlens",
 		"felipecaputo.git-project-manager",
 		"donjayamanne.githistory",
-		"mhutchie.git-graph"
+		"mhutchie.git-graph",
+		/* Prettier */
+		"esbenp.prettier-vscode"
 	],
 	"unwantedRecommendations": [
 		/* Git */
