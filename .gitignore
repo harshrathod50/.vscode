@@ -1,0 +1,16 @@
+# Operating System cache
+**/.DS_Store
+**/*.swp
+**/Thumbs.db
+
+# Visual Studio Code IDE
+**/.vscode/*
+!**/.vscode/settings.json
+!**/.vscode/tasks.json
+!**/.vscode/launch.json
+!**/.vscode/extensions.json
+!**/.vscode/*.code-snippets
+## Local History
+.history/
+## Built Extensions
+*.vsix

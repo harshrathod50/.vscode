@@ -1,4 +1,13 @@
 {
-	"recommendations": [],
-	"unwantedRecommendations": []
+	"recommendations": [
+		/* Git */
+		"eamodio.gitlens",
+		"felipecaputo.git-project-manager",
+		"donjayamanne.githistory",
+		"mhutchie.git-graph"
+	],
+	"unwantedRecommendations": [
+		/* Git */
+		"donjayamanne.git-extension-pack"
+	]
 }
