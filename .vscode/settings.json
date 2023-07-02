@@ -1,0 +1,19 @@
+{
+	/* Files */
+	"files.eol": "\n",
+	"files.exclude": {
+		"**/.git": false,
+		"**/.DS_Store": false,
+		"**/Thumbs.db": false
+	},
+	/* Editor */
+	"editor.bracketPairColorization.enabled": true,
+	"editor.fontFamily": "Jetbrains Mono",
+	"editor.fontLigatures": true,
+	"editor.linkedEditing": true,
+	"editor.renderWhitespace": "all",
+	"editor.tabSize": 2,
+	"editor.insertSpaces": false,
+	"editor.detectIndentation": false,
+	"editor.rulers": [80]
+}
