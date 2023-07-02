@@ -1,4 +1,7 @@
 {
+	/* Java */
+	"java.compile.nullAnalysis.mode": "automatic",
+	"java.configuration.updateBuildConfiguration": "automatic",
 	/* Files */
 	"files.eol": "\n",
 	"files.exclude": {
