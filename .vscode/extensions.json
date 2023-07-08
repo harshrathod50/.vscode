@@ -1,5 +1,7 @@
 {
 	"recommendations": [
+		/* ESLint */
+		"dbaeumer.vscode-eslint",
 		/* Git */
 		"eamodio.gitlens",
 		"felipecaputo.git-project-manager",
