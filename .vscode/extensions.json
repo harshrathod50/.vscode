@@ -1,5 +1,7 @@
 {
 	"recommendations": [
+		/* Artificial Intelligence */
+		/* "", */
 		/* ESLint */
 		"dbaeumer.vscode-eslint",
 		/* Git */
