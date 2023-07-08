@@ -18,6 +18,9 @@
 		"redhat.fabric8-analytics",
 		/* Prettier */
 		"esbenp.prettier-vscode",
+		/* TypeScript/JavaScript */
+		"ms-vscode.vscode-typescript-next",
+		"Orta.vscode-twoslash-queries",
 		/* Spring Boot */
 		"vscjava.vscode-spring-initializr",
 		"vscjava.vscode-spring-boot-dashboard",
