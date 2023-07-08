@@ -1,5 +1,8 @@
 {
 	"recommendations": [
+		/* Angular */
+		"Angular.ng-template",
+		"johnpapa.Angular2",
 		/* Artificial Intelligence */
 		/* "", */
 		/* ESLint */
@@ -33,6 +36,8 @@
 		"redhat.vscode-xml"
 	],
 	"unwantedRecommendations": [
+		/* Angular */
+		"johnpapa.angular-essentials",
 		/* Git */
 		"donjayamanne.git-extension-pack",
 		/* Java */
