@@ -32,6 +32,8 @@
 		"vscjava.vscode-spring-initializr",
 		"vscjava.vscode-spring-boot-dashboard",
 		"vmware.vscode-spring-boot",
+		/* Themes */
+		"PKief.material-icon-theme",
 		/* XML */
 		"redhat.vscode-xml"
 	],
