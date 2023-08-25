@@ -34,6 +34,8 @@
 		"vmware.vscode-spring-boot",
 		/* Themes */
 		"PKief.material-icon-theme",
+		/* Windows Subsystem for Linux */
+		"ms-vscode-remote.remote-wsl",
 		/* XML */
 		"redhat.vscode-xml"
 	],
