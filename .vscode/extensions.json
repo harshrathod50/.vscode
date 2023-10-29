@@ -34,6 +34,8 @@
     "vmware.vscode-spring-boot",
     /* Themes */
     "PKief.material-icon-theme",
+    /* Vitest */
+    "ZixuanChen.vitest-explorer",
     /* Windows Subsystem for Linux */
     "ms-vscode-remote.remote-wsl",
     /* XML */
