@@ -5,6 +5,8 @@
 		"johnpapa.Angular2",
 		/* Artificial Intelligence */
 		/* "", */
+		/* C++ */
+		"ms-vscode.cmake-tools",
 		/* ESLint */
 		"dbaeumer.vscode-eslint",
 		/* Git */
