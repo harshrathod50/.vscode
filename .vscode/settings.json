@@ -3,6 +3,9 @@
 	"java.compile.nullAnalysis.mode": "automatic",
 	"java.configuration.updateBuildConfiguration": "automatic",
 	/* Files */
+	"files.associations": {
+		"*.css": "tailwindcss"
+	},
 	"files.eol": "\r\n",
 	"files.exclude": {
 		"**/.git": false,
