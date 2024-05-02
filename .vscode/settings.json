@@ -4,6 +4,9 @@
 	"java.configuration.updateBuildConfiguration": "automatic",
 	/* Files */
 	"files.eol": "\n",
+	"files.associations": {
+		"*.css": "tailwindcss"
+	},
 	"files.exclude": {
 		"**/.git": false,
 		"**/.DS_Store": false,

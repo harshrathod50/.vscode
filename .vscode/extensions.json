@@ -36,6 +36,8 @@
 		"vscjava.vscode-spring-initializr",
 		"vscjava.vscode-spring-boot-dashboard",
 		"vmware.vscode-spring-boot",
+		/* TailWindCSS */
+		"bradlc.vscode-tailwindcss",
 		/* Themes */
 		"PKief.material-icon-theme",
 		/* Windows Subsystem for Linux */
