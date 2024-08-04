@@ -40,6 +40,8 @@
 		"bradlc.vscode-tailwindcss",
 		/* Themes */
 		"PKief.material-icon-theme",
+		/* Vitest */
+		"vitest.explorer",
 		/* Windows Subsystem for Linux */
 		"ms-vscode-remote.remote-wsl",
 		/* XML */
